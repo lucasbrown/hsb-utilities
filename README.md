@@ -1,4 +1,4 @@
-# HSBUtilities
+# HSB Utilities
 
 Create a new color object by modifying an existing color object's HSB (hue, saturation, brightness, or alpha) component values.
 
